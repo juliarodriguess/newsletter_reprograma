@@ -43,6 +43,7 @@ body {
 .news__label{
     display: block;
     color: #ffffff;
+    margin-top: 5%;
 }
 
 .news__input{
@@ -75,4 +76,18 @@ body {
     background-color: #7F479B;
     color: #ffffff;
     transition: 0.3s;
+}
+
+span {
+    background-color: #ECDDF3;
+    color: #462755;
+    border-radius: 50px;
+    border: 0;
+    padding: 10px 20px;
+    width: 130px;
+    bottom: -50px;
+    font-weight: bold;
+    left: 50%;
+    font-size: 16px;
+    position: center;
 }
